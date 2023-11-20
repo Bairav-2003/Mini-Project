@@ -20,10 +20,7 @@ Apply ,Feature Encoding, Feature Scaling and Feature transformation and selectio
 Apply data visualization techniques to identify the patterns of the data.
 
 ### Program And Output:
-```
-Developed By:Sanjay G
-Reg No: 212222230131
-```
+
 Importing necessary packages:
 ```
 import pandas as pd
